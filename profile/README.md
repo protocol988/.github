@@ -4,7 +4,7 @@ Protocol 988 emerges as a groundbreaking initiative poised to transform the way 
 
 Traditional forward contracts, a cornerstone of the financial industry, allow parties to agree on the purchase or sale of an asset at a predetermined price and date in the future. However, the TradFi system is riddled with intermediaries, complex processes, and opacity, making it inaccessible to the masses and vulnerable to manipulation. Protocol 988 recognizes these shortcomings and seeks to address them head-on by introducing a fully decentralized and user-centric solution.
 
-##**Our Vision**
+## **Our Vision**
 
 Protocol 988 envisions a world where forward contracts become accessible, efficient, and secure for everyone, irrespective of their financial background or geographical location. This vision is powered by three core principles:
 
@@ -14,7 +14,7 @@ Protocol 988 envisions a world where forward contracts become accessible, effici
 
 **Security:** Security is paramount in the Web3 ecosystem, and Protocol 988 is no exception. It employs state-of-the-art cryptography and auditing processes to ensure the safety of users' assets and data.
 
-##**Key Features of Protocol 988**
+## **Key Features of Protocol 988**
 
 **1.** Create Contracts with Ease: A user-friendly contract creation interface where users can define the terms, assets, and expiration dates of their forward contracts. The entire process is streamlined, reducing the barriers to entry.
 
