@@ -12,8 +12,6 @@ Protocol 988 envisions a world where forward contracts become accessible, effici
 
 **Accessibility:** Protocol 988 is designed with user-friendliness in mind. It offers a seamless and intuitive interface for creating, managing, and trading forward contracts. Novice and experienced users alike will find it easy to participate in this new financial paradigm.
 
-**Security:** Security is paramount in the Web3 ecosystem, and Protocol 988 is no exception. It employs state-of-the-art cryptography and auditing processes to ensure the safety of users' assets and data.
-
 ## **Key Features of Protocol 988**
 
 **1.** Create Contracts with Ease: A user-friendly contract creation interface where users can define the terms, assets, and expiration dates of their forward contracts. The entire process is streamlined, reducing the barriers to entry.
