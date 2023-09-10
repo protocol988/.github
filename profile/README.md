@@ -14,14 +14,14 @@ Protocol 988 envisions a world where forward contracts become accessible, effici
 
 ## **Key Features of Protocol 988**
 
-**1.** Create Contracts with Ease: A user-friendly contract creation interface where users can define the terms, assets, and expiration dates of their forward contracts. The entire process is streamlined, reducing the barriers to entry.
+**1.** **Create Contracts with Ease:** A user-friendly contract creation interface where users can define the terms, assets, and expiration dates of their forward contracts. The entire process is streamlined, reducing the barriers to entry.
 
-**2.** Decentralized Oracles: To determine asset prices and ensure the accuracy of contract settlements, Protocol 988 integrates with decentralized oracles, enhancing trust and reliability.
+**2.** **Decentralized Oracles:** To determine asset prices and ensure the accuracy of contract settlements, Protocol 988 integrates with decentralized oracles, enhancing trust and reliability.
 
-**3.** Peer-to-Peer Trading: Contract creators and traders can interact directly, eliminating the need for traditional intermediaries. This feature promotes efficiency and reduces trading costs.
+**3.** **Peer-to-Peer Trading:** Contract creators and traders can interact directly, eliminating the need for traditional intermediaries. This feature promotes efficiency and reduces trading costs.
 
-**4.** Interoperability: Protocol 988 is designed to seamlessly integrate with other DeFi protocols using ERC-20's to fractionalize and represent shares of forward agreements. These "FShare's" can then be used as collateral across numerous DeFi applications accross the decentralized financial ecosystem.
+**4.** **Interoperability:** Protocol 988 is designed to seamlessly integrate with other DeFi protocols using ERC-20's to fractionalize and represent shares of forward agreements. These "FShare's" can then be used as collateral across numerous DeFi applications accross the decentralized financial ecosystem.
 
-**5.** Risk Management Tools: Users can employ a range of risk management tools, including collateralization and fractionalized sharing of contracts, to protect their positions, assets and strategies.
+**5.** **Risk Management Tools:** Users can employ a range of risk management tools, including collateralization and fractionalized sharing of contracts, to protect their positions, assets and strategies.
 
-**6.** Governance and Community: The Protocol 988 community plays an active role in the governance of the platform, ensuring that it remains adaptive and responsive to the needs of its users.
+**6.** **Governance and Community:** The Protocol 988 community plays an active role in the governance of the platform, ensuring that it remains adaptive and responsive to the needs of its users.
